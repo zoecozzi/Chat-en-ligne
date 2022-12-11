@@ -3,7 +3,7 @@
 J'ai réalisé pour le travail demandé en classe un chat en ligne où plusieurs clients peuvent se connecter à un même serveur.
 Lorsqu'un client envoie un message, tous les autres clients le recoive.
 
-###Fonctionnement du chat en ligne 
+### Fonctionnement du chat en ligne 
 
   Il faut dans un premier temps lancer le fichier se nommant "ServeurMT" dans votre invite de commande. (j'ai nommé le serveur "ServeurMT" pour Serveur Multi Thread)
   Une fois cette opération faite, le serveur sera créé.
